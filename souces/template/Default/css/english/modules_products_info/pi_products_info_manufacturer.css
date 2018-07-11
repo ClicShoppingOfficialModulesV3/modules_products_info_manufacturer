@@ -1,0 +1,7 @@
+div.moduleProductsInfoInfoManufacturer, span.moduleProductsInfoInfoManufacturer h3 {
+  font-size: 0.6875rem;
+}
+
+a.moduleProductsInfoInfoManufacturer {
+  text-decoration: underline;
+}

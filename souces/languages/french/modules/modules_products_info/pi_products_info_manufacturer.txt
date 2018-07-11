@@ -1,0 +1,3 @@
+module_products_info_manufacturer = Souhaitez-vous afficher la marque du fabricant ?
+module_products_info_manufacturer_description = Affiche le titre  la marque du fabricant dans la page de description du produit
+module_products_info_manufacturer_title = Marque du produit

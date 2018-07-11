@@ -1,0 +1,4 @@
+
+ module_products_info_manufacturer = Do you want to display the name of the product manufacturer ?
+ module_products_info_manufacturer_description = Display the name of the product manufacturer
+ module_products_info_manufacturer_title = Manufacturer product :
