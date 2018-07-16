@@ -29,4 +29,7 @@ Implementation:
 - https://monsite/myAdmin/modules.php?set=modules_products_info
 - Activate the module
 
+- Copy the modules_products_info_manufacturer.json into ClicShopping/Work/Cache/Github (manual installation)
+
+
 
