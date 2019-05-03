@@ -50,7 +50,7 @@
           $products_manufacturer = '<!-- Start manufacturers_name -->' . "\n";
 
           ob_start();
-          require($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/products_info_manufacturer'));
+          require_once($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/products_info_manufacturer'));
           $products_manufacturer .= ob_get_clean();
 
           $products_manufacturer .= '<!-- end manufacturers_name -->' . "\n";
