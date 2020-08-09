@@ -129,7 +129,7 @@
     }
 
     public function keys() {
-      return array (
+      return array(
         'MODULE_PRODUCTS_INFO_MANUFACTURER_STATUS',
         'MODULE_PRODUCTS_INFO_MANUFACTURER_CONTENT_WIDTH',
         'MODULE_PRODUCTS_INFO_MANUFACTURER_POSITION',
